@@ -1,0 +1,13 @@
+[window]
+padding = { x = 1, y = 1 }
+startup_mode = "Maximized"
+
+[font]
+normal = { family = "DroidSansM Nerd Font", style = "Regular" }
+size = 16
+
+[colors.primary]
+foreground = "#ffffff"
+
+[scrolling]
+multiplier = 18
